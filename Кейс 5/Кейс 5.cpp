@@ -68,7 +68,7 @@ int main() {
     std::cout << "Оценка: " << student3.evaluatePerformance() << "\n\n";
 
     student4.printInfo();
-    std::cout << "Оценка: " << student4.evaluatePerformance() << "\n\n";
+    std::cout << "Оценка: " << student4.evaluatePerformance() << "\n\n"; 
 
     return 0;
 }
